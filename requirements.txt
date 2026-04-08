@@ -1,6 +1,15 @@
-# Local Vector MCP Server Dependencies
-# Add your project dependencies here
-# Example:
-# fastapi>=0.100.0
-# uvicorn>=0.23.0
-# chromadb>=0.4.0
+# GraphRAG Memory Server - Dependencies
+# Core MCP server framework
+mcp>=1.0.0
+
+# Graph database and traversal
+networkx>=3.0
+
+# Standard library modules (built-in, no installation needed):
+# - os
+# - json
+# - sqlite3
+# - asyncio
+# - typing
+# - math
+# - collections
