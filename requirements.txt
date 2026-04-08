@@ -1,0 +1,6 @@
+# Local Vector MCP Server Dependencies
+# Add your project dependencies here
+# Example:
+# fastapi>=0.100.0
+# uvicorn>=0.23.0
+# chromadb>=0.4.0
